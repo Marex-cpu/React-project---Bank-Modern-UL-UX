@@ -47,6 +47,10 @@
     #5ce1e6 51.94%,
     #33bbcf 90.29%
   );
+  transition: all 300ms;
+}
+.bg-blue-gradient:hover {
+  background: white;
 }
 
 .bg-black-gradient {
