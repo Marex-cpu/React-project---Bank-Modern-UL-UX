@@ -13,6 +13,9 @@ module.exports = {
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
       },
+      gridTemplateColumns: {
+        3: "repeat(auto-fit, minmax(300px, 1fr))",
+      },
     },
     screens: {
       xs: "480px",
