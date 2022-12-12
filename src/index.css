@@ -49,9 +49,6 @@
   );
   transition: all 300ms;
 }
-.bg-blue-gradient:hover {
-  background: white;
-}
 
 .bg-black-gradient {
   background: linear-gradient(
@@ -144,4 +141,20 @@
 .white__gradient {
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
+}
+
+/* getStarted button */
+.bg-white:hover {
+  background: white;
+}
+.buisinessBtn:hover {
+  background: linear-gradient(
+    60deg,
+    #def9fa -43.27%,
+    #bef3f5 -21.24%,
+    #9dedf0 12.19%,
+    #7de7eb 29.82%,
+    #5ce1e6 51.94%,
+    #33bbcf 90.29%
+  );
 }
