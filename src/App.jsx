@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './styles';
 
-import { Navbar, Billing, Business, Button, CardDeal, CTA, Clients, FeedbackCard, Footer, GetStarted, Hero, Stats, Testimonials } from './components';
+import { Navbar, Billing, Business, CardDeal, CTA, Clients, Footer, Hero, Stats, Testimonials } from './components';
 
 const App = () => {
   return (
